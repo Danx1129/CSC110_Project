@@ -1,4 +1,5 @@
 -download the folder
 -run PyCharm
 -install plugins from requirements.txt
+-use python 3.8
 -run main.py

@@ -1,5 +1,6 @@
 -download the folder
 -run PyCharm
+-install csc110_pycharm_settings
 -install plugins from requirements.txt
 -use python 3.8
 -run main.py
